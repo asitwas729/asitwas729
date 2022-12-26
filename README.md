@@ -1,2 +1,2 @@
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=asitwas729&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=asitwas729&theme=cold)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=asitwas729)](https://solved.ac/asitwas729)
