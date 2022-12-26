@@ -8,4 +8,4 @@ Solved.ac Level
 =======
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asitwas729&show_icons=true&theme=radical)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asitwas729&layout=compact)](https://github.com/asitwas729/github-readme-stats)
