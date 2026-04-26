@@ -1,2 +1,4 @@
-![](https://github.com/asitwas729/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/asitwas729/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+## 📊 GitHub Stats
+
+![](https://raw.githubusercontent.com/asitwas729/github-stats/generated/overview.svg)
+![](https://raw.githubusercontent.com/asitwas729/github-stats/generated/languages.svg)
